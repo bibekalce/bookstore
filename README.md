@@ -1,2 +1,0 @@
-# bookstore
-Bookstore Application
